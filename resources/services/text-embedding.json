@@ -1,0 +1,8 @@
+{
+  "type": "OpenAi",
+  "keyfile": "secret/key.txt",
+  "endpoint": "https://pps-lab-fast.openai.azure.com/",
+  "deployment": "check-safety",
+  "version": "2024-05-01-preview",
+  "model": "text-embeddings-v1"
+}

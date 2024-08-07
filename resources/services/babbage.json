@@ -1,0 +1,8 @@
+{
+  "type": "OpenAi",
+  "keyfile": "secret/key-safety.txt",
+  "endpoint": "https://semantic.openai.azure.com/",
+  "deployment": "check-safety",
+  "version": "2024-02-01",
+  "model": "check-safety"
+}

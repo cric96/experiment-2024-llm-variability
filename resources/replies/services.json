@@ -1,0 +1,12 @@
+{
+  "gpt-35": {
+    "where": "resources/services",
+    "filename": "gpt35.json"
+  },
+  "llama8": {"model": "llama3.1:8b" },
+  "stable-1.6": { "model": "stablelm2:1.6b"},
+  "mistral": { "model": "mistral" },
+  "gemma": { "model": "gemma" },
+  "phi3-mini": { "model": "phi3:mini" },
+  "tinyllama": { "model": "tinyllama" }
+}

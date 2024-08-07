@@ -1,0 +1,4 @@
+{
+  "type": "Ollama",
+  "model": "jina/jina-embeddings-v2-base-de"
+}
